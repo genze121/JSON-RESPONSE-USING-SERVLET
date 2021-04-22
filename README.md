@@ -1,5 +1,17 @@
 # JSON-RESPONSE-USING-SERVLET
 ---
+
+JSON-RESPONSE Developed using JSP, Servlet.
+
+## Following features
+- Home Page
+
+## Technology stack
+- Java 8+
+- JSP and Servlet
+- Eclipse IDE
+- Tomcat server 8+
+
 1) <h4> JSON HOME </h4>
 
 <p>
